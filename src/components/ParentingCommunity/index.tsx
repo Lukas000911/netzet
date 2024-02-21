@@ -7,7 +7,7 @@ import { offerDetails } from "@/constants/offerDetails";
 
 const ParentingCommunity = () => {
   return (
-    <div className="max-w-[867px] rounded-[10px] py-[27px] px-0 md:px-[37px] bg-card-yellow mx-5 lg:mx-auto my-[32px] flex flex-col items-center">
+    <div className="max-w-[867px] rounded-[10px] py-[27px] px-0 md:px-[37px] bg-card-yellow mx-5 my-[32px] flex flex-col items-center">
       <h1 className="text-electric text-center text-[25px] md:text-[30px] font-extrabold uppercase mx-[24px] md:mx-0">
         Only you, only now
       </h1>
