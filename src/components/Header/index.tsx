@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+
 import CountdownClock from "../CountdownClock";
 
 const HeaderComponent = () => {
@@ -21,7 +22,7 @@ const HeaderComponent = () => {
           </div>
           <Link
             href="/"
-            className="bg-netzet-green rounded-[5px] py-2 px-[22px] h-fit w-[126px] md:w-fit md:h-[36px] uppercase text-[13px] md:text-[16px]"
+            className="bg-netzet-green rounded-[5px] py-2 px-[22px] h-fit w-[126px] md:w-fit md:h-[36px] uppercase text-[13px] md:text-[16px] font-extrabold"
           >
             Accept the challenge
           </Link>
